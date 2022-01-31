@@ -1,0 +1,5 @@
+[API SAT SPAIN]
+http://guiativi.es/apirest/basic 
+
+[API EPG UNIVERSAL]
+https://iptv-epg.readthedocs.io/en/latest/
